@@ -92,5 +92,5 @@ obtained_rec_prec=pd.DataFrame({'Precision': prec_set,
 ##
 
 <h3 align="center">For more details</h3>
-See, <a href="https://research.thea.ie/handle/20.500.12065/3429">IMVIP 2020 : Irish Machine Vision and Image Processing Conference</a> 
+<a href="https://research.thea.ie/handle/20.500.12065/3429">IMVIP 2020 : Irish Machine Vision and Image Processing Conference</a> 
 
