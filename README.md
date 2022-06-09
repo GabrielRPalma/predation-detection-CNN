@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, are you intrested in automating the detection of the ecological interactions using Convolutional Neural Networks?</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, are you intrested in automating the detection of the ecological interactions using Convolutional Neural Networks?</h1>
 
 Here, We are going to present the R scripts and data set that can be used to reproduce the results presented in the paper "Detecting predation interaction using pretrained CNNs".
 
